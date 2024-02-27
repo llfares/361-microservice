@@ -20,5 +20,6 @@ Step 3: Wait for the UI microservice to process the input data and write it to t
 Step 4: The recipe app reads the data from the ingredients.txt file.
 
 C. UML Sequence Diagram:
+
 ![image](https://github.com/llfares/361-microservice/assets/155480234/42504211-c23e-414d-92d7-52caf1ea3fb1)
 
